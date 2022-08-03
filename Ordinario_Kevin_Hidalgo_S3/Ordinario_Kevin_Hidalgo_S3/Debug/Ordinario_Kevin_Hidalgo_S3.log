@@ -1,0 +1,4 @@
+﻿  MenuPrincipal.cpp
+C:\Users\leohi\source\repos\Ordinario_Kevin_Hidalgo_S3\Ordinario_Kevin_Hidalgo_S3\MenuPrincipal.cpp(52,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\leohi\source\repos\Ordinario_Kevin_Hidalgo_S3\Ordinario_Kevin_Hidalgo_S3\MenuPrincipal.cpp(90,22): warning C4018: '<': no coinciden signed/unsigned
+  Ordinario_Kevin_Hidalgo_S3.vcxproj -> C:\Users\leohi\source\repos\Ordinario_Kevin_Hidalgo_S3\Debug\Ordinario_Kevin_Hidalgo_S3.exe
